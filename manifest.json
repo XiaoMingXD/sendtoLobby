@@ -17,6 +17,22 @@
                 "timestamp": "2022-04-12T04:00:00Z"
             },
             {
+                "version": "1.4.1.0",
+                "changelog": "Added support for libraries with shared network folders for non-admin users.\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://github.com/firecore/InfuseSync/releases/download/v1.4.1/InfuseSync-jellyfin-1.4.1.zip",
+                "checksum": "fece6cb4736503a325592bcee3aea56a",
+                "timestamp": "2021-10-22T06:42:00Z"
+            },
+            {
+                "version": "1.3.3.0",
+                "changelog": "Jellyfin 10.7.0 support, packaging fix.\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://github.com/firecore/InfuseSync/releases/download/v1.3.3/InfuseSync-jellyfin-1.3.3.zip",
+                "checksum": "e9262894968407f15fc2d92375de8483",
+                "timestamp": "2021-03-17T06:42:00Z"
+            },
+            {
                 "version": "1.3.2.0",
                 "changelog": "Jellyfin 10.7.0 support, fixes for Jellyfin endpoints and authorization.\n",
                 "targetAbi": "10.7.0.0",
