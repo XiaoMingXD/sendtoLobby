@@ -1,0 +1,29 @@
+[
+    {
+        "guid": "022a3003-993f-45f1-8565-87d12af2e12a",
+        "name": "InfuseSync",
+        "description": "This plugin will track all media changes while any Infuse clients are offline to decrease sync times when logging back in to your server.",
+        "overview": "Blazing fast indexing for Infuse",
+        "owner": "Firecore LLC",
+        "imageUrl": "https://raw.githubusercontent.com/firecore/InfuseSync/master/InfuseSync/thumb.png",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.4.2.0",
+                "changelog": "Added support for Jellyfin 10.8.\n",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/firecore/InfuseSync/releases/download/v1.4.2/InfuseSync-jellyfin-1.4.2.zip",
+                "checksum": "4f3188f705028682df87a7beb9d606d5",
+                "timestamp": "2022-04-12T04:00:00Z"
+            },
+            {
+                "version": "1.3.2.0",
+                "changelog": "Jellyfin 10.7.0 support, fixes for Jellyfin endpoints and authorization.\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/infusesync/InfuseSync-jellyfin-1.3.2.zip",
+                "checksum": "520ffde8b075070cff5185d7453485a0",
+                "timestamp": "2021-01-05T08:00:00Z"
+            }
+        ]
+    }
+]
